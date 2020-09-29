@@ -1,6 +1,6 @@
 # python-work
 
-##Fixing of Spelling Errors
+# #Fixing of Spelling Errors
 
 In this code, using a provided dictionary file, we will be measuring inaccuracies of a provided text file to affirm the variation of autocorrect to be used. The following functions will be used:
 1. Found - the best case scenario when the given word has no inaccuracies according to the dictionary file referenced 
@@ -15,3 +15,9 @@ In this code, using a provided dictionary file, we will be measuring inaccuracie
 
 
 These functions must be executed in a particular order, to ensure that the correct autocorrect function is prioritized first, according to the reference output text file attached. 
+
+
+Instructions on Running Code:
+
+Both Dictionary and Input File must be downloaded and within the same folder in order to run. 
+The code asks for the dictionary file and input file respectively.
